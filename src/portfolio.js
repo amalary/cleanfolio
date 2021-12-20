@@ -35,7 +35,7 @@ const projects = [
     livePreview: 'https://look-c.herokuapp.com/',
   },
   {
-    name: 'Project 3',
+    name: 'Pikchu',
     description:
       'Another collboration project between me and one other partner reverengineering instagram to make our own site called pikchu',
     stack: ['Python', 'Django', 'JavaScript','PostgreSQL','CSS'],
