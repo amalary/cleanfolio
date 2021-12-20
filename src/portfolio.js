@@ -1,71 +1,68 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://github.com/amalary',
+  title: 'AM',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
+
+  name: 'Anthony Malary',
   role: 'Front End Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Full-Stack Engineer 1+year of hands on experience designing and developing web applications using a broad range of technologies and programming languages. Seeking to leverage software engineering experience and practical application in a rigorous role as a Full-Stack Engineer.',
+  resume: 'https://docs.google.com/document/d/1voNnEnUDlwCIO8UQawz5V6TzBl0eePhJYq53Xi7uoWQ/edit?usp=sharing',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/anthonymalary/',
+    github: 'https://git.generalassemb.ly/amalary95',
   },
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
+  
   {
-    name: 'Project 1',
+    name: 'Coin Flip',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'This is a coin flipping game that I made simulating the flipping of a coin and a score board to keep track of heads and tails.',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://git.generalassemb.ly/amalary95/ProjecrtZero3000Master',
+    livePreview: 'https://pages.git.generalassemb.ly/amalary95/ProjecrtZero3000Master/',
   },
   {
-    name: 'Project 2',
+    name: 'Look C',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A collboaration project between me and two other partners reverse engineering a travel blog site',
+    stack: ['Python', 'Django', 'JavaScript','PostgreSQL','CSS'],
+    sourceCode: 'https://github.com/Tony-Villa/project-wayfarer',
+    livePreview: 'https://look-c.herokuapp.com/',
   },
   {
     name: 'Project 3',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Another collboration project between me and one other partner reverengineering instagram to make our own site called pikchu',
+    stack: ['Python', 'Django', 'JavaScript','PostgreSQL','CSS'],
+    sourceCode: 'https://github.com/mdhowey/pikchu',
+    livePreview: '',
   },
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
+
   'HTML',
   'CSS',
   'JavaScript',
   'TypeScript',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'Python',
+  'NodeJs',
+  'Mongo DB',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Heroku',
+  'SQL',
+  'jQuery ',
+  'Postgres'
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'amalary@bu.edu',
 }
 
 export { header, about, projects, skills, contact }
