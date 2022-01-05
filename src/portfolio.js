@@ -8,7 +8,7 @@ const about = {
   name: 'Anthony Malary',
   role: 'Front End Engineer',
   description:
-    'Full-Stack Engineer 1+year of hands on experience designing and developing web applications using a broad range of technologies and programming languages. Seeking to leverage software engineering experience and practical application in a rigorous role as a Full-Stack Engineer.',
+    'Full-Stack Engineer with 1+year of hands on experience designing and developing web applications using a broad range of technologies and programming languages.  I am seeking to leverage software engineering experience and practical application in a rigorous role as a Full-Stack Engineer.',
   resume: 'https://docs.google.com/document/d/1voNnEnUDlwCIO8UQawz5V6TzBl0eePhJYq53Xi7uoWQ/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/anthonymalary/',
@@ -37,7 +37,7 @@ const projects = [
   {
     name: 'Pikchu',
     description:
-      'Another collboration project between me and one other partner reverengineering instagram to make our own site called pikchu',
+      'Another collboration project between me and one other partner reverse engineering Instagram to make our own site called pikchu',
     stack: ['Python', 'Django', 'JavaScript','PostgreSQL','CSS'],
     sourceCode: 'https://github.com/mdhowey/pikchu',
     livePreview: '',
