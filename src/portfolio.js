@@ -12,7 +12,7 @@ const about = {
   resume: 'https://docs.google.com/document/d/1voNnEnUDlwCIO8UQawz5V6TzBl0eePhJYq53Xi7uoWQ/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/anthonymalary/',
-    github: 'https://git.generalassemb.ly/amalary95',
+    github: 'https://github.com/amalary',
   },
 }
 
@@ -58,7 +58,8 @@ const skills = [
   'Heroku',
   'SQL',
   'jQuery ',
-  'Postgres'
+  'Postgres',
+  'Github'
 ]
 
 const contact = {
