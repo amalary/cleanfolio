@@ -2,7 +2,7 @@ const header = {
   homepage: 'https://github.com/amalary',
   title: 'AM',
 }
-
+// fixed
 const about = {
 
   name: 'Anthony Malary',
