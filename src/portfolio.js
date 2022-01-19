@@ -6,7 +6,7 @@ const header = {
 const about = {
 
   name: 'Anthony Malary',
-  role: 'Front End Engineer',
+  role: 'Software Engineer',
   description:
     'Full-Stack Engineer with 1+year of hands on experience designing and developing web applications using a broad range of technologies and programming languages.  I am seeking to leverage software engineering experience and practical application in a rigorous role as a Full-Stack Engineer.',
   resume: 'https://docs.google.com/document/d/1voNnEnUDlwCIO8UQawz5V6TzBl0eePhJYq53Xi7uoWQ/edit?usp=sharing',
